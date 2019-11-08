@@ -1,4 +1,4 @@
-7.times do
+7.do
   puts'Wingardium Leviosa'
 end
 
