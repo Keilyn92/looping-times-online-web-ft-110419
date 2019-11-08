@@ -1,7 +1,9 @@
-7 do
-  puts'Wingardium Leviosa'
+Wingardium Leviosa = 7
   
-end
+  7.times do
+    puts'Wingardium Leviosa'
+    windgardium_Leviosa = windgardium_Leviosa - 7
+  end
 
 
 
