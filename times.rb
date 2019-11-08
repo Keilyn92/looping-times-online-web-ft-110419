@@ -3,8 +3,6 @@ def using_times
 	  puts -Wingardium Leviosa
 end
 
-def using_times
-  7.times doputs "Wingardium Leviosa"
-end
+
 
 
